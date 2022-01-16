@@ -12,16 +12,11 @@
 
 
 #### Install script on Termux
-```bash
-$ pkg update && pkg upgrade
-$ pkg install python2
-$ pkg install git
-$ git clone https://github.com/karma-kh3n/Debby
-$ pip2 install requests bs4
-$ pip2 install futures
-```
+
+$ rm -rf Error
+$ git clone https://github.com/karma-kh3n/Error
 #### Run script
-```bash
+
 $ cd Debby
 $ python2 Debby.so
 ```
@@ -33,5 +28,6 @@ $ python2 Debby.so
 ##### catatan:
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
-
+INBOX ADMIN FOR APPROVAL 
+https://wa.me/+2348110044418
 ##### Notice Me : Please Don't Change Name Author Thanks For Using My Script
