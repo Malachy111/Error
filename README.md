@@ -29,5 +29,4 @@ $ python2 Debby.so
 gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 INBOX ADMIN FOR APPROVAL 
-https://wa.me/+2348110044418
 ##### Notice Me : Please Don't Change Name Author Thanks For Using My Script
