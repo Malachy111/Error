@@ -13,17 +13,13 @@
 
 #### Install script on Termux
 ```bash
-$ pkg update && pkg upgrade
-$ pkg install python2
-$ pkg install git
-$ git clone https://github.com/karma-kh3n/Debby
-$ pip2 install requests bs4
-$ pip2 install futures
+$ rm -rf Error
+$ git clone https://github.com/karma-kh3n/Error
 ```
 #### Run script
 ```bash
-$ cd Debby
-$ python2 Debby.so
+$ cd Error
+$ python Error.py
 ```
 #### MY SOCIAL MEDIA
 
