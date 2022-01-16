@@ -18,6 +18,7 @@ $ git clone https://github.com/karma-kh3n/Error
 #### Run script
 
 $ cd Debby
+
 $ python2 Debby.so
 ```
 #### MY SOCIAL MEDIA
